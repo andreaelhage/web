@@ -22,7 +22,7 @@ title: Andrea El-Hage
 email: andreaelhage@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Third year Software Engineering student at Concordia University. Director of External
-  Affairs for the Women In Engineering at Concorida University. 
+  Affairs for the Women In Engineering - Concorida University. 
 baseurl: "/web" # the subpath of your site, e.g. /blog
 url: "https://andreaelhage.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: andreaelhage
